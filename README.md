@@ -1,7 +1,8 @@
 ### Hi! My name is Gustavo Casemiro
-
-[![Linktr.ee](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-casemiro-banhos-56a938232/)
-
+<div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-casemiro-banhos-56a938232/)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CasemiroDev)
+</div>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&theme=dark" />
