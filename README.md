@@ -5,10 +5,10 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gcasemiro)
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 width=350 align="center"  src=https://github-readme-stats.vercel.app/api?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) />
+  <img height=250 width=500 align="center"  src=https://github-readme-stats.vercel.app/api?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 width =350 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) />
+  <img height=250 width =500 align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=false&layout=compact) />
 </a>
 </div>
 
