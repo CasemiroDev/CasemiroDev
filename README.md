@@ -1,6 +1,5 @@
-### Hi! My name is Gustavo Casemiro
-
 <div align="center">
+### Hi! My name is Gustavo Casemiro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-casemiro-banhos-56a938232/)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CasemiroDev)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gcasemiro)
