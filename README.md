@@ -5,13 +5,9 @@
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gcasemiro)
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250" width="450" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
-  </a>&nbsp;<a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/></a>
 </p>
-
 ## Technologies I use:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" />
