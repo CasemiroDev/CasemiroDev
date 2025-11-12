@@ -11,7 +11,7 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&bg_color=00000000)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasemiroDev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Technologies I use:
