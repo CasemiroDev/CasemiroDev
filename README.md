@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/></a>
 </p>
 
 ## Technologies I use:
