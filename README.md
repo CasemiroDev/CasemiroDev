@@ -1,6 +1,6 @@
-<h3 align="center">Hi! My name is Gustavo Casemiro</h3>
+<h3>Hi! My name is Gustavo Casemiro</h3>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/gustavo-henrique-casemiro-banhos-56a938232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -12,10 +12,14 @@
   </a>
 </p>
 
-<p align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/></a>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
+  </a>
+</p>
   
 </p>
 ## Technologies I use:
