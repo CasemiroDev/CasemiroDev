@@ -4,7 +4,7 @@
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CasemiroDev)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gcasemiro)
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
