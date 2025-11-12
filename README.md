@@ -3,14 +3,15 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-casemiro-banhos-56a938232/)
 [![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/CasemiroDev)
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/gcasemiro)
-<div>
+
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="150" width="350" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasemiroDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
   </a>
-</div>
+
 
 ## Technologies I use:
 <div>
