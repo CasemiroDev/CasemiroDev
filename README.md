@@ -19,7 +19,6 @@
   </tr>
 </table>
 
-
 ## Technologies I use:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" width="30" />
